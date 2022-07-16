@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Cescon</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate full stack developer from Brasil</h3>
 
 
 <h3 align="left">Languages: </h3>
@@ -28,13 +28,16 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 </p>
-<div>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCescon&layout=compact&langs_count=7&theme=react" />
-</div>
 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/GustavoCescon/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   
- 
+<div align="center">
+  <a href="https://github.com/GustavoCescon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCescon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCescon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 </div>
  
