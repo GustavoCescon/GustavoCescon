@@ -21,13 +21,7 @@
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> 
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/GustavoCescon/GustavoCescon/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <a href="https://github.com/GustavoCescon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCescon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
