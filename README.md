@@ -1,4 +1,4 @@
-                              <h1 align="center">Hi 👋, I'm Gustavo Cescon</h1>
+                             <h3 align="center">Hi 👋, I'm Gustavo Cescon</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
 
@@ -22,6 +22,7 @@
 </p>
 
 ![Snake animation](https://github.com/GustavoCescon/GustavoCescon/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <a href="https://github.com/GustavoCescon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCescon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
