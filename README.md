@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo Cescon</h1>
-<h3 align="center">A passionate full stack developer from Brasil</h3>
+<h1 align="center">Hi 👋, I'm the dev Cescon</h1>
+<h3 align="center">I'm a traveler who loves exploring the world of programming</h3>
 
 
 <h3 align="left">Languages: </h3>
