@@ -4,37 +4,9 @@
 
 I'm a software developer with a knack for turning ideas into practical and elegant solutions. With two years of experience building websites and REST APIs, I'm always curious to learn more about new technologies and tackle new challenges. When I'm not coding, you might find me exploring the latest tech trends or simply relaxing and recharging. I'm excited to collaborate on innovative projects and continue evolving in my professional journey!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,nodejs,react,vue,php,html,css,bootstrap,css,cypress,docker,gitlab,jest,jquery,mongodb,mysql,postgres,prisma,redis,npm,postman,vite)](https://skillicons.dev)
 
 ## Technologies
-
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg)
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-![Bulma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg)
-![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
-![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![Oracle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-![Sequelize](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg)
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
-![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg)
 
 ## GitHub Stats
 
