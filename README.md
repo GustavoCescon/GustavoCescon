@@ -5,6 +5,8 @@
   I'm a software developer with a knack for turning ideas into practical and elegant solutions. With two years of experience building websites and REST APIs, I'm always curious to learn more about new technologies and tackle new challenges. When I'm not coding, you might find me exploring the latest tech trends or simply relaxing and recharging. I'm excited to collaborate on innovative projects and continue evolving in my professional journey!
 </p>
 
+<br clear="both">
+
 ## Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,nodejs,react,vue,php,html,css,bootstrap,css,cypress,docker,gitlab,jest,jquery,mongodb,mysql,postgres,prisma,redis,npm,postman,vite)](https://skillicons.dev)
