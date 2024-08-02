@@ -4,6 +4,8 @@
 
 I'm a software developer with a knack for turning ideas into practical and elegant solutions. With two years of experience building websites and REST APIs, I'm always curious to learn more about new technologies and tackle new challenges. When I'm not coding, you might find me exploring the latest tech trends or simply relaxing and recharging. I'm excited to collaborate on innovative projects and continue evolving in my professional journey!
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Technologies
 
 ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
