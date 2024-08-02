@@ -15,5 +15,3 @@ I'm a software developer with a knack for turning ideas into practical and elega
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoCescon&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCescon&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoCescon&theme=dracula&area=true&hide_border=true&hide_title=true)
-
-![Snake Animation](https://raw.githubusercontent.com/GustavoCescon/GustavoCescon/output/snake.svg)
