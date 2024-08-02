@@ -1,6 +1,7 @@
 # Hi 👋! My name is Gustavo Cescon, nice to meet you
 
 <img  src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="Gustavo's GIF" />
+![]([name-of-giphy.gif](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif))
 
 I'm a software developer with a knack for turning ideas into practical and elegant solutions. With two years of experience building websites and REST APIs, I'm always curious to learn more about new technologies and tackle new challenges. When I'm not coding, you might find me exploring the latest tech trends or simply relaxing and recharging. I'm excited to collaborate on innovative projects and continue evolving in my professional journey!
 
