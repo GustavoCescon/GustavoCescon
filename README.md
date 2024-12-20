@@ -10,7 +10,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,nodejs,react,vue,php,html,css,bootstrap,css,cypress,docker,gitlab,jest,jquery,mongodb,mysql,postgres,prisma,redis,npm,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,nestjs,nextjs,nodejs,react,vue,php,html,css,bootstrap,css,cypress,docker,gitlab,jest,jquery,mongodb,mysql,postgres,prisma,redis,npm,postman,vite)](https://skillicons.dev)
 
 
 ## GitHub Stats
